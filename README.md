@@ -39,6 +39,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 screenshots
 
 
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
+![Alt text](image-a.png)
+![Alt text](image-b.png)
+![Alt text](image-c.png)
