@@ -12,4 +12,5 @@ export interface WineData {
     Hue: number | string;
     "OD280/OD315 of diluted wines":  number | string;
     Unknown: number | string;
+    Gamma?: number;
   }
