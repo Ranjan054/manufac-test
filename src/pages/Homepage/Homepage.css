@@ -1,7 +1,9 @@
 .center-content {
     overflow-y: auto;
     display: flex;
-    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
     margin-top: 150px;
 }
 
