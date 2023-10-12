@@ -1,0 +1,41 @@
+.center-content {
+    overflow-y: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.table-wrapper {
+    display: flex;
+    border-left: 2px solid #000;
+    border-top: 2px solid #000;
+}
+
+.th, .td {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+
+.top-d {
+    width: 108px;
+    height: 45px;
+}
+
+.other-d {
+    width: 108px;
+    height: 70px;
+}
+
+.th p, .row-heading {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.td p {
+    font-size: 14px;
+    font-weight: 400;
+}
